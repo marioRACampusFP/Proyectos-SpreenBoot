@@ -1,2 +1,2 @@
-# Proyectos SpreenBoot
-Repositorio para mis ejercicios y proyectos de SpreenBoot en el ciclo.
+# Projects-SpreenBoot
+Repository for my SpreenBoot exercises and projects in the cycle.
